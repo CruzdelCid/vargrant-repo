@@ -1,0 +1,6 @@
+vagrant init # Creación del archivo 
+vagrant up 
+vagrant provision
+vagrant halt
+vagrant destroy
+vagrant 
